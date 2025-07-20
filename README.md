@@ -18,8 +18,9 @@ It is intended to demonstrate both technical acumen and real-world support readi
 
 ## Source
 
-This project references documentation from the Mastercard Developer Portal.  
+This project references documentation from the Mastercard Developer Portal. 
 See [https://developer.mastercard.com/](https://developer.mastercard.com/) for the original documentation.
+
 
 ![Tokenization Flowchart](Tokenization-simplified.png)
 
