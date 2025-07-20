@@ -1,3 +1,3 @@
 # Digital-Payment-API-Troubleshooting
 
-![Tokenization Flowchart](Tokenization-flowchart.png.avif)
+![Tokenization Flowchart](Tokenization-simplified.png)
