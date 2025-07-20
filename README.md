@@ -16,6 +16,10 @@ API debugging using tools like Postman, cURL, Splunk, Fiddler
 Log analysis and issue documentation for recurring incidents
 It is intended to demonstrate both technical acumen and real-world support readiness in the digital payments domain.
 
+## Source
+
+This project references documentation from the Mastercard Developer Portal.  
+See [https://developer.mastercard.com/](https://developer.mastercard.com/) for the original documentation.
 
 ![Tokenization Flowchart](Tokenization-simplified.png)
 
