@@ -21,7 +21,7 @@ It is intended to demonstrate both technical acumen and real-world support readi
 
 
 ---
-title: Code and Formats
+Code and Formats
 ---
 
 # HTTP Response Codes
