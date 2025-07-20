@@ -67,7 +67,6 @@ Mastercard returns errors in the following structure:
 }
 ```
 
-**Troubleshooting**
 
 | **Field** | **Description** |
 | --- | --- |
@@ -82,7 +81,7 @@ In addition to service error codes, error codes can also be returned by Masterca
 
 You can find a list of the errors returned by our gateway and resolutions to each on the [Gateway Error Codes](https://developer.mastercard.com/platform/documentation/security-and-authentication/gateway-error-codes/) page.
 
-# Mastercard Processing Error Codes
+# Mastercard Processing Error Codes with troubleshooting steps
 
 For a complete list of Mastercard Processing application-specific error codes, refer to the following table:
 
