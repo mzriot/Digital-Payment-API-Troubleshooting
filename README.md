@@ -43,6 +43,9 @@ Code and Formats
 | 415 | UNSUPPORTED MEDIA TYPE | The server does not support the request payload’s media type. For the Mastercard Processing API, the `Content-Type` header must be `application/json;charset=utf-8`. |
 | 422 | UNPROCESSABLE CONTENT | The API cannot complete the requested action, or the request action is semantically incorrect or fails business validation. |
 
+![Postman_tool_error_example](404.png)
+
+
 # Error Structure
 
 To provide a consistent experience across all Mastercard APIs, the Mastercard Processing API follows the standard structure for each scenario that can occur.
